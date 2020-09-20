@@ -1,3 +1,3 @@
 # LoveAnalytics
 
-https://vk.com/lovanalytic
+https://vk.com/lovanalytics
