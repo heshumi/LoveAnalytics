@@ -10,8 +10,8 @@ home = expanduser("~")
 
 
 id = 6851565
-protected_key = 'jUToHVozq8eVPtcUyQFY'
-service_key = '7c312daa7c312daa7c312daa357c59a64777c317c312daa206d8f862f6f44a912e21d6e'
+
+service_key = 'ENTER YOUR KEY'
 session_user = None
 session_service = vk.Session(
     access_token=service_key)  # logged in with application rights #With this token we can't get user's wall, while we can do it using ordinary login and password
